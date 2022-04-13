@@ -6,8 +6,6 @@
      
      Mock类库是一个专门用于在unittest过程中制作（伪造）和修改（篡改）测试对象的类库，避免这些对象在单元测试过程中依赖外部资源（网络资源，数据库连接，其它服务以及耗时过长等）。
 
-![image.png](//static.xiedaimala.com/xdml/image/5835ff35-7aba-420d-ac91-ba7410a5a7a1/2022-4-12-14-52-56.png)
-
 https://www.zhihu.com/search?type=content&q=mock
 
 1、使用node.js 手写server
